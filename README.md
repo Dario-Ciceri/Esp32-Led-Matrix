@@ -4,3 +4,7 @@ Da qui potete scaricare tutto quello che serve per utilizzare una o più matrici
 Articolo dedicato: (placeholder per il link)
 
 Link della driver board: (placeholder per il link)
+
+# Librerie necessarie
+
+https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-DMA
