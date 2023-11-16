@@ -1,7 +1,7 @@
 # Esp32-Led-Matrix
 Da qui potete scaricare tutto quello che serve per utilizzare una o più matrici LED con Esp32 utilizzando la driver board di Futura Elettronica.
 # Maggiori informazioni
-Articolo dedicato: https://futuranet.it/prodotto/n-271-febbraio-2023-marzo-2023/
+Articolo dedicato: https://futuranet.it/prodotto/n-271-febbraio-2023-marzo-2023/?ref=13136
 
 Link della driver board: https://futuranet.it/prodotto/board-controller-per-matrici-a-led/?ref=13136
 
