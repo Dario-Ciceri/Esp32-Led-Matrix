@@ -8,6 +8,7 @@ Da qui potete scaricare tutto quello che serve per utilizzare una o più matrici
 # Librerie necessarie
 
 https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-DMA
+https://github.com/bitbank2/AnimatedGIF
 
 # Convertire GIF
 Per convertire le GIF, la procedura che ho seguito è la seguente:
